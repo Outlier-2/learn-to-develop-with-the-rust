@@ -5,7 +5,7 @@
 ## 搭建开发环境
 
 {% hint style="info" %}
-推荐使用在线开发 [www.github.com](https://www.github.com)
+推荐使用[在线开发环境](quickstart.md#zai-xian-kai-fa-huan-jing-gou-jian)
 {% endhint %}
 
 ### 本地环境搭建
