@@ -1,7 +1,0 @@
-[package]
-name = "fake"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-fake = {version = "2.9.2" , features = ["derive"]}

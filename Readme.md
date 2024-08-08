@@ -1,2 +1,2 @@
 # Learn to develop with the rust 
-This is a project to develop applications for any one who wants to learn rust skills.
+Everyone so good, this branch builds a basic environment that allows rust here you can develop your code without having to install anything but accelerate the plugin you developed
