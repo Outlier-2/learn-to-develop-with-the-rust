@@ -11,7 +11,7 @@ services:
     environment:
       - MODE=standalone  # 根据需要设置环境变量
     volumes:
-      - nacos-data:/home/rnacos/data  # 挂载数据卷，保持数据持久性
+      - nacos-data:/home/nacos/data  # 挂载数据卷，保持数据持久性
 
 volumes:
   nacos-data:
