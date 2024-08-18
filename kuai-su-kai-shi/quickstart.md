@@ -16,8 +16,6 @@
 
     1.  切换国内源 [https://github.com/wtklbm/crm](https://github.com/wtklbm/crm)
 
-        `cargo install crm`
-
         ```sh
         cargo install crm
         ```
