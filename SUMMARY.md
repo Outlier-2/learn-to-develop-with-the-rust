@@ -5,7 +5,7 @@
 ## 快速开始
 
 * [🏗️ 开发环境搭建](kuai-su-kai-shi/quickstart.md)
-* [Publish your docs](kuai-su-kai-shi/publish-your-docs.md)
+* [🌴 生态简介](kuai-su-kai-shi/publish-your-docs.md)
 
 ## Basics
 
