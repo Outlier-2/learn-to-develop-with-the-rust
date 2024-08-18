@@ -6,8 +6,8 @@
 
 * [🏗️ 开发环境搭建](kuai-su-kai-shi/quickstart.md)
 * [🌴 生态简介](kuai-su-kai-shi/publish-your-docs.md)
-* [数据类型](kuai-su-kai-shi/shu-ju-lei-xing.md)
 * [🚀 入门例子](kuai-su-kai-shi/ru-men-li-zi.md)
+* [数据类型](kuai-su-kai-shi/shu-ju-lei-xing.md)
 
 ## Basics
 
