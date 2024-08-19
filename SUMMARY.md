@@ -24,6 +24,7 @@
 * [函数式编程](basics/han-shu-shi-bian-cheng/README.md)
   * [🙇‍♀️ 函数式编程的所有权详解](basics/han-shu-shi-bian-cheng/han-shu-shi-bian-cheng-de-suo-you-quan-xiang-jie.md)
 * [多线程](basics/duo-xian-cheng.md)
+* [🧠 智能指针](basics/zhi-neng-zhi-zhen.md)
 * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
