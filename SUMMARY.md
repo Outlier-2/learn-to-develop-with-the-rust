@@ -17,8 +17,9 @@
 ## Basics
 
 * [💁‍♂️ 所有权系统](basics/suo-you-quan-xi-tong.md)
-* [🧚 面向对象编程](basics/mian-xiang-dui-xiang-bian-cheng.md)
 * [🚨 生命周期](basics/sheng-ming-zhou-qi.md)
+* [🧚 面向对象编程](basics/mian-xiang-dui-xiang-bian-cheng/README.md)
+  * [泛型与约束](basics/mian-xiang-dui-xiang-bian-cheng/fan-xing-yu-yue-shu.md)
 * [常用数据结构](basics/chang-yong-shu-ju-jie-gou.md)
 * [函数式编程](basics/han-shu-shi-bian-cheng.md)
 * [Editor](basics/editor.md)
