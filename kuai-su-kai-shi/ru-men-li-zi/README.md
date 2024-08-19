@@ -16,7 +16,7 @@ Hello World！！！
 cargo new project_name # default create bin projcet
 ```
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>tree command see project</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>tree command see project</p></figcaption></figure>
 
 当你使用 `cargo new` 创建一个新的 Rust 项目时，Cargo 会为你生成一个标准的项目结构。对于一个二进制项目（`bin` 项目），创建后项目目录通常包含以下文件和目录：
 
