@@ -20,6 +20,7 @@
 * [🧚 面向对象编程](basics/mian-xiang-dui-xiang-bian-cheng.md)
 * [🚨 生命周期](basics/sheng-ming-zhou-qi.md)
 * [常用数据结构](basics/chang-yong-shu-ju-jie-gou.md)
+* [函数式编程](basics/han-shu-shi-bian-cheng.md)
 * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
