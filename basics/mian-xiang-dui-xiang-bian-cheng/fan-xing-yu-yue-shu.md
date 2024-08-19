@@ -161,7 +161,7 @@ impl Display for Vec<i32> {
 不过，您可以在自己的 crate 中定义新的 trait 或新的类型，并为它们实现现有的 trait。
 
 ```rust
-rust复制代码// 可以在当前 crate 中定义一个新 trait
+// 可以在当前 crate 中定义一个新 trait
 trait MyTrait {
     fn my_method(&self) -> String;
 }
