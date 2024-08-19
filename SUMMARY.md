@@ -10,6 +10,7 @@
   * [数据类型](kuai-su-kai-shi/ru-men-li-zi/shu-ju-lei-xing.md)
   * [变量和可变性](kuai-su-kai-shi/ru-men-li-zi/bian-liang-he-ke-bian-xing.md)
   * [猜数字](kuai-su-kai-shi/ru-men-li-zi/cai-shu-zi.md)
+  * [📏 判断与模式匹配](kuai-su-kai-shi/ru-men-li-zi/pan-duan-yu-mo-shi-pi-pei.md)
 
 ## Basics
 
