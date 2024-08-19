@@ -20,6 +20,7 @@
 * [🚨 生命周期](basics/sheng-ming-zhou-qi.md)
 * [🧚 面向对象编程](basics/mian-xiang-dui-xiang-bian-cheng/README.md)
   * [泛型与约束](basics/mian-xiang-dui-xiang-bian-cheng/fan-xing-yu-yue-shu.md)
+  * [泛型、别名、关联类型](basics/mian-xiang-dui-xiang-bian-cheng/fan-xing-bie-ming-guan-lian-lei-xing.md)
 * [常用数据结构](basics/chang-yong-shu-ju-jie-gou.md)
 * [函数式编程](basics/han-shu-shi-bian-cheng/README.md)
   * [🙇‍♀️ 函数式编程的所有权详解](basics/han-shu-shi-bian-cheng/han-shu-shi-bian-cheng-de-suo-you-quan-xiang-jie.md)
