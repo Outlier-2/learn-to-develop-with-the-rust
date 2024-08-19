@@ -18,6 +18,7 @@
 
 * [💁‍♂️ 所有权系统](basics/suo-you-quan-xi-tong.md)
 * [🧚 面向对象编程](basics/mian-xiang-dui-xiang-bian-cheng.md)
+* [🚨 生命周期](basics/sheng-ming-zhou-qi.md)
 * [常用数据结构](basics/chang-yong-shu-ju-jie-gou.md)
 * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
