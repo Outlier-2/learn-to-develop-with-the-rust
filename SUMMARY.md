@@ -29,6 +29,7 @@
   * [🧠 智能指针](rust-he-xin/ji-chu/zhi-neng-zhi-zhen/README.md)
     * [内部可变](rust-he-xin/ji-chu/zhi-neng-zhi-zhen/nei-bu-ke-bian.md)
 * [中级](rust-he-xin/editor/README.md)
+  * [lib 项目](rust-he-xin/editor/lib-xiang-mu.md)
   * [标准库详解](rust-he-xin/editor/biao-zhun-ku-xiang-jie.md)
   * [宏编程](rust-he-xin/editor/hong-bian-cheng.md)
   * [Unsfae](rust-he-xin/editor/markdown.md)
