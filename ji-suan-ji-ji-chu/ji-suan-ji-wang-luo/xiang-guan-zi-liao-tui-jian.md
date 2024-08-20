@@ -1,4 +1,6 @@
-# 相关书籍推荐
+# 相关资料推荐
+
+书籍
 
 初级：
 
@@ -19,3 +21,17 @@
 <figure><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaRFT0Srcuh6COR4qgP2rZNpYxAXP9rWoYw&#x26;s" alt=""><figcaption><p>TCP/IP详解</p></figcaption></figure>
 
 </div>
+
+## 视频
+
+{% embed url="https://www.bilibili.com/video/BV1NT411g7n6/?spm_id_from=333.337.search-card.all.click&vd_source=783d0841dbb4f3e671cf9cf2af8a2438" %}
+湖科大计算机网络微课
+{% endembed %}
+
+{% embed url="https://www.bilibili.com/video/BV1JV411t7ow/?spm_id_from=333.337.search-card.all.click&vd_source=783d0841dbb4f3e671cf9cf2af8a2438" %}
+中科大计算机网络
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?list=PLm556dMNleHc1MWN5BX9B2XkwkNE2Djiu&v=74sEFYBBRAY" %}
+Computer NetWorks
+{% endembed %}
