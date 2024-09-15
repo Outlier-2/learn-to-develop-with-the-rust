@@ -24,7 +24,7 @@ cargo doc --open
 * **`//!`**：用于模块级注释，通常位于文件顶部，描述整个模块的作用。
 
 ````rust
-rust复制代码/// This is a documentation comment for the `add` function.
+/// This is a documentation comment for the `add` function.
 /// It adds two numbers together.
 ///
 /// # Examples
@@ -50,7 +50,7 @@ fn add(a: i32, b: i32) -> i32 {
 在 `Cargo.toml` 中，`[package]` 部分可以添加项目描述、主页、文档地址等信息，这些内容会显示在生成的文档主页上。
 
 ```toml
-toml复制代码[package]
+[package]
 name = "my_project"
 version = "0.1.0"
 authors = ["Author Name <author@example.com>"]
@@ -65,7 +65,7 @@ documentation = "https://docs.rs/my_project"
 Rust 中的 `features` 是一种用于控制条件编译的机制。在 `Cargo.toml` 中，可以定义不同的 `features`，并在文档中说明它们的作用。
 
 ```toml
-toml复制代码[features]
+[features]
 default = ["feature1"]
 feature1 = []
 feature2 = ["feature1"]
@@ -74,7 +74,7 @@ feature2 = ["feature1"]
 在文档注释中，可以使用 `cfg_attr` 属性来为特定 `feature` 提供文档说明：
 
 ```rust
-rust复制代码/// This function is only available when the `feature1` is enabled.
+/// This function is only available when the `feature1` is enabled.
 #[cfg_attr(feature = "feature1", doc = "This is only available with `feature1`.")]
 fn special_function() {
     // ...
@@ -86,7 +86,7 @@ fn special_function() {
 为了帮助用户理解在何种条件下某些功能可用，可以使用 `# doc(cfg)` 来标记条件编译项。
 
 ```rust
-rust复制代码#[cfg(feature = "feature1")]
+#[cfg(feature = "feature1")]
 #[doc(cfg(feature = "feature1"))]
 pub fn feature1_function() {
     // ...
