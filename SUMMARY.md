@@ -21,6 +21,7 @@
   * [🚨 生命周期](rust-he-xin/ji-chu/sheng-ming-zhou-qi/README.md)
     * [协变与逆变](rust-he-xin/ji-chu/sheng-ming-zhou-qi/xie-bian-yu-ni-bian.md)
   * [🧚 面向对象编程](rust-he-xin/ji-chu/mian-xiang-dui-xiang-bian-cheng/README.md)
+    * [孤儿规则](rust-he-xin/ji-chu/mian-xiang-dui-xiang-bian-cheng/gu-er-gui-ze.md)
     * [泛型与约束](rust-he-xin/ji-chu/mian-xiang-dui-xiang-bian-cheng/fan-xing-yu-yue-shu.md)
     * [泛型、别名、关联类型](rust-he-xin/ji-chu/mian-xiang-dui-xiang-bian-cheng/fan-xing-bie-ming-guan-lian-lei-xing.md)
   * [常用数据结构](rust-he-xin/ji-chu/chang-yong-shu-ju-jie-gou.md)
