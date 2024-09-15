@@ -39,7 +39,9 @@
   * [Cargo docs文档](rust-he-xin/editor/cargo-docs-wen-dang.md)
 * [高级](rust-he-xin/images-and-media/README.md)
   * [算法](rust-he-xin/images-and-media/suan-fa.md)
-  * [Page](rust-he-xin/images-and-media/page.md)
+  * [设计模式](rust-he-xin/images-and-media/she-ji-mo-shi/README.md)
+    * [常见的设计模式](rust-he-xin/images-and-media/she-ji-mo-shi/chang-jian-de-she-ji-mo-shi.md)
+    * [Rust的设计范式](rust-he-xin/images-and-media/she-ji-mo-shi/rust-de-she-ji-fan-shi.md)
   * [Page 2](rust-he-xin/images-and-media/page-2.md)
 
 ## 计算机基础
