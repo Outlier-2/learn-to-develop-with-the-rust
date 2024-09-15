@@ -38,11 +38,12 @@
   * [数据库](rust-he-xin/editor/shu-ju-ku.md)
   * [Cargo docs文档](rust-he-xin/editor/cargo-docs-wen-dang.md)
 * [高级](rust-he-xin/images-and-media/README.md)
-  * [算法](rust-he-xin/images-and-media/suan-fa.md)
+  * [算法](rust-he-xin/images-and-media/suan-fa/README.md)
+    * [数据结构](rust-he-xin/images-and-media/suan-fa/shu-ju-jie-gou.md)
+    * [常用算法](rust-he-xin/images-and-media/suan-fa/chang-yong-suan-fa.md)
   * [设计模式](rust-he-xin/images-and-media/she-ji-mo-shi/README.md)
     * [常见的设计模式](rust-he-xin/images-and-media/she-ji-mo-shi/chang-jian-de-she-ji-mo-shi.md)
     * [Rust的设计范式](rust-he-xin/images-and-media/she-ji-mo-shi/rust-de-she-ji-fan-shi.md)
-  * [Page 2](rust-he-xin/images-and-media/page-2.md)
 
 ## 计算机基础
 
